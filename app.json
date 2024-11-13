@@ -8,7 +8,7 @@
         "pyrogram"
     ],
     "repository": "https://github.com/AshutoshGoswami24/text-leech-bot",
-    "success_url": "https://t.me/AshutoshGoswami24",
+    "success_url": "https://t.me/+v4k9PpU_fxtmYmNl",
     "stack": "heroku-22",
     "env": {
         "API_ID": {
